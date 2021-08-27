@@ -1,0 +1,11 @@
+"""
+ Programmer : Srikanth Kumar Gampa
+ Program : program to print customary "Hello world"
+ Date : 08/27/2021
+ Last changed : 08/27/2021 
+ Python version : 3 
+"""
+
+print("Hello world")
+
+
